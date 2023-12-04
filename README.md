@@ -8,7 +8,7 @@ This repository contains an my solution to "GPN Intelligence CUP 2023" (Data Sci
 - [Команда проекта](#команда-проекта)
 
 ## Технологии
-- [Pandas][(https://pandas.pydata.org)]]
+- [Pandas](https://pandas.pydata.org)
 - [SARIMAX](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)
 
 ## Описание модели
